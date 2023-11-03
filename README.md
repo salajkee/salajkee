@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Salamat</h1>
-<h3 align="center">Frontend developer from Tashkent.</h3>
+<h1 align="center" color="#fff">Hi there, I'm Salamat</h1>
+<h3 align="center" color="#fff">Frontend developer from Tashkent.</h3>
 
 - 👨‍💻 Check out my [website](https://portfolio-salamat.vercel.app/)
 
