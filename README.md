@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Salamat</h1>
+<h3 align="center">Frontend developer from Tashkent.</h3>
 
-<!--
-**salajkee/salajkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Check out my [website](https://portfolio-salamat.vercel.app/)
 
-Here are some ideas to get you started:
+- 📧 You can reach out to me via **salamataymuratov15@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Currently learning **Next.js**
+
+<h4 align="left">🔎 Find me on:</h4>
+<p align="left"><a href="https://github.com/salajkee" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://t.me/salajkee" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="50" height="50"/></a><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="50"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="50" height="50"/></a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/></a><a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="50" height="50"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="50" height="50"/></a><a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="wordpress" width="50" height="50"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="50" height="50"/></a></p>
