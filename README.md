@@ -1,7 +1,7 @@
 <h1 align="center" color="#fff">Hi there, I'm Salamat</h1>
 <h3 align="center" color="#fff">Frontend developer from Tashkent.</h3>
 
-- 👨‍💻 Check out my [website](https://portfolio-salamat.vercel.app/)
+- 👨‍💻 Check out my [website](https://portfolio-salamat.vercel.app)
 
 - 📧 You can reach out to me via **salamataymuratov15@gmail.com**
 
